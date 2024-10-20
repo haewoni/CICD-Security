@@ -34,7 +34,7 @@ dependencies {
 
 	// 취약점이 보고된 의존성 업데이트
 	// Snyk 보고서에 따라 보안 취약점이 있는 의존성의 최신 버전으로 업데이트
-	implementation 'org.springframework:spring-webmvc:6.1.13' // 최신 버전으로 업데이트
+	implementation 'org.springframework:spring-webmvc:6.1.14' // 최신 버전으로 업데이트
 	implementation 'org.springframework.security:spring-security-core:5.7.12' // 보안 취약점 해결
 
 
