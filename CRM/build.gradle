@@ -30,7 +30,7 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 
 	// MySQL 의존성 추가
-	runtimeOnly 'mysql:mysql-connector-java:8.0.33'
+	//runtimeOnly 'mysql:mysql-connector-java:8.0.33'
 
 
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
